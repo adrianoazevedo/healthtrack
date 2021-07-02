@@ -1,2 +1,2 @@
-# healthtrack
+# HealthTrack
 Projeto HealthTrack FIAP
